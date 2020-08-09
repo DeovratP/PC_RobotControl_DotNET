@@ -1,0 +1,39 @@
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\bin\Debug\Advance Robotic Controller.exe
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\bin\Debug\Advance Robotic Controller.pdb
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\bin\Debug\Advance Robotic Controller.xml
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\obj\x86\Debug\Advance_Robotic_Controller.Form1.resources
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\obj\x86\Debug\Advance_Robotic_Controller.Resources.resources
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\obj\x86\Debug\Advance Robotic Controller.exe
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\obj\x86\Debug\Advance Robotic Controller.xml
+C:\Users\Deovrat\AppData\Local\Temporary Projects\Advance Robotic Controller\obj\x86\Debug\Advance Robotic Controller.pdb
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\Advance Robotic Controller.exe
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\Advance Robotic Controller.xml
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\Advance Robotic Controller.pdb
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\bin\Debug\Advance Robotic Controller.exe
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\bin\Debug\Advance Robotic Controller.pdb
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\bin\Debug\Advance Robotic Controller.xml
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\Advance_Robotic_Controller.Form1.resources
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\Advance_Robotic_Controller.Resources.resources
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\GenerateResource.write.367.tlog
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\GenerateResource.write.380.tlog
+F:\VB_Files\Advance Robotic Controller\Advance Robotic Controller\obj\x86\Debug\Advance_Robotic_Controller.Form2.resources
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\Advance Robotic Controller.exe
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\Advance Robotic Controller.xml
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\Advance Robotic Controller.pdb
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\bin\Debug\Advance Robotic Controller.exe
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\bin\Debug\Advance Robotic Controller.pdb
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\bin\Debug\Advance Robotic Controller.xml
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\Advance_Robotic_Controller.Form1.resources
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\Advance_Robotic_Controller.Form2.resources
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\Advance_Robotic_Controller.Resources.resources
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\GenerateResource.write.367.tlog
+F:\VB_Files\Advance Robotic ARM Controller\Advance Robotic Controller\obj\x86\Debug\GenerateResource.write.380.tlog
